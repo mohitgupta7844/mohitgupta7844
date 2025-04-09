@@ -23,7 +23,7 @@ Bachelor of Engineering in Information Technology | Shri Ramswaroop College of E
 
 <h3 >💼 Experience:</h3>
 
-Senior Technical Consultant, EY (Sep 2023 - Present): Optimized system performance and developed key APIs for insurance modules.
+Senior Technical Consultant, EY (Sep 2023 - Feb 2025): Optimized system performance and developed key APIs for insurance modules.
 
 
 SDE-2, Mobcoder Private Limited (Sep 2022 - Sep 2023): Enhanced authentication mechanisms and managed cloud deployments.

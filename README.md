@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1> <h3 align="center">A Passionate Full Stack Developer (MEAN/MERN) from India</h3>
 
-🔭 I’m currently working as a Senior Technical Consultant at EY
+🔭 I have worked as a Senior Technical Consultant at EY
 🚀 With over 5 years of experience, I specialize in MEAN stack development and Microservices architecture. I excel in building scalable systems and optimizing performance for businesses across various industries.
 
 
